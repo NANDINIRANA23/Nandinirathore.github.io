@@ -1,55 +1,6 @@
-title: "Nandini Rathore | Azure Data Engineer"
-subtitle: "Building secure, scalable cloud data platforms"
-description: >
-  Azure Data Engineer with 4+ years of experience delivering
-  enterprise-grade data platforms in banking and finance using
-  Azure Data Factory, Databricks, Delta Lake, Synapse, and Power BI.
-
-url: "https://nandinirana23.github.io"
-baseurl: ""
-
-logo: "/assets/images/images.jpeg"
-
-# THEME (Correct way for GitHub Pages)
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
-
-# Author
-author:
-  name: "Nandini Rathore"
-  avatar: "/assets/images/images.jpeg"
-  bio: >
-    Azure Data Engineer with 4+ years of experience in regulated
-    banking environments, specializing in Azure data platforms.
-  location: "Canada"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:rathorenandini2310@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/nandini-rathore/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/NANDINIRANA23"
-
-# Navigation (Correct key)
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Experience"
-    url: /experience/
-  - title: "Projects"
-    url: /projects/
-  - title: "Certifications"
-    url: /certifications/
-  - title: "Resume"
-    url: /resume/
-
-# Plugins (GitHub Pages safe)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+title: Minimal theme
+logo: /assets/img/images.jpeg
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
