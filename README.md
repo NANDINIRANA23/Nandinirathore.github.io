@@ -88,7 +88,7 @@ Azure DevOps • Git • Jira • Confluence • Agile/Scrum
 - SCD Type 1 upsert framework  
 - Automated on-prem → cloud data movement
 
-[View Project](/assets/pdf/NANDINIRATHORE_BOOTCAMPPROJECT_01_PIPELINE FOR CUSTOMER ACCOUNT ANALYSIS.pdf)
+[View Project] (/assets/pdf/NANDINIRATHORE_BOOTCAMPPROJECT_01_PIPELINEFORCUSTOMERACCOUNTANALYSIS.pdf)
 
 
 
