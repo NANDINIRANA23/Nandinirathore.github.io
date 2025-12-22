@@ -96,17 +96,21 @@ Azure DevOps • Git • Jira • Confluence • Agile/Scrum
 
 ### **Customer 360 Data Integration (Synapse + Power BI)**
 - Unified customer data model  
-- Interactive analytics dashboards  
+- Interactive analytics dashboards
+  [View Project](/NANDINIRATHORE_CUSTOMER_360_DATAINTEGRATION.pdf)
 
 ### **Microsoft Fabric Incremental Pipeline**
 - On-prem gateway integration  
 - Incremental loads + SCD Type 1  
-- Automated notifications  
+- Automated notifications
+-  [View Project](/FABRIC.pdf)
+
 
 ### **Secure Workflow with Databricks + Key Vault**
 - SQL → ADLS Gold layer pipeline  
 - Secret management via Key Vault  
 - ADF-orchestrated end-to-end workflow  
+ [View Project](/NANDINIRATHORE_ADF_DATABRICKS_VM.pdf)
 
 ---
 
