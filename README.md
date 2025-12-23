@@ -57,6 +57,7 @@ Project & Collaboration Tools: Jira, Confluence, Agile/Scrum Practices.
 • Enforced role-based access controls (RBAC) and secure data handling for sensitive financial datasets in compliance with internal and regulatory standards.
 
 • Conducted query tuning and pipeline optimization to improve runtime efficiency and reduce processing costs in cloud environments.
+
 ---
 
 ### **Axis Bank, India — Azure Data Engineer**  
@@ -92,7 +93,7 @@ Project & Collaboration Tools: Jira, Confluence, Agile/Scrum Practices.
 
 ## 📂 Projects
 
-### [End-to-End Data Pipeline for Customer Account Analysis](/NANDINIRATHORE_CUSTOMER_ACCOUNT_ANALYSIS.pdf)**
+### [End-to-End Data Pipeline for Customer Account Analysis](/NANDINIRATHORE_CUSTOMER_ACCOUNT_ANALYSIS.pdf)
 ![LinkedIn Dashboard](/1.png)
 
 • Designed an end-to-end Azure data pipeline extracting data from SQL Server, transforming with ADF, and upserting into SQL DB using SCD Type 1.
@@ -115,6 +116,7 @@ Project & Collaboration Tools: Jira, Confluence, Agile/Scrum Practices.
 ![LinkedIn Dashboard](/4.png)
 
 • Built secure workflows for moving data from SQL Server to ADLS Gold Layer using Databricks and Key Vault integration.
+
 ---
 
 ## 📫 Contact
