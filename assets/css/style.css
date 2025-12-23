@@ -1,0 +1,54 @@
+/* CYBER / TECH PURPLE–BLUE GRADIENT THEME */
+text-decoration: none;
+color: #bb9dff;
+font-weight: 600;
+transition: 0.3s;
+}
+
+
+.navbar a:hover {
+color: #ffffff;
+text-shadow: 0px 0px 8px #d59bff;
+}
+
+
+.section {
+padding: 60px;
+max-width: 1000px;
+margin: auto;
+}
+
+
+.card {
+background: rgba(255,255,255,0.08);
+border: 1px solid rgba(255,255,255,0.2);
+border-radius: 15px;
+padding: 25px;
+margin-bottom: 20px;
+box-shadow: 0px 0px 15px rgba(162, 0, 255, 0.3);
+}
+
+
+.button {
+background: #8b4dff;
+padding: 12px 20px;
+color: #fff;
+border-radius: 10px;
+text-decoration: none;
+font-weight: 600;
+transition: 0.3s;
+}
+
+
+.button:hover {
+background: #b47cff;
+box-shadow: 0px 0px 10px #c282ff;
+}
+
+
+.footer {
+text-align: center;
+padding: 20px;
+margin-top: 40px;
+color: #a8a8a8;
+}
